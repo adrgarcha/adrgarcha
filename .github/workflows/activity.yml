@@ -1,0 +1,16 @@
+name: Update recent GitHub activity
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Cada hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Readme-Workflows/recent-activity@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
