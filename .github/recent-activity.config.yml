@@ -1,0 +1,23 @@
+settings:
+  commit_msg: "feat: update README with recent activity"
+  max_lines: 5
+  date:
+    timezone: "GMT+02:00"
+    text: "Última actualización: {DATE}"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+messages:
+  comments: "💬 Ha dejado un pedazo de comentario {ID} en {REPO}"
+  push: "⬆️ Ha pusheado {AMOUNT} commit(s) a {REPO}"
+  issue_opened: "❗️ Ha abierto una issue {ID} en {REPO}"
+  issue_closed: "✔️ Ha cerrado una issue {ID} en {REPO}"
+  pr_opened: "💪 Ha abierto una PR {ID} en {REPO}"
+  pr_closed: "❌ Ha cerrado una PR {ID} en {REPO}"
+  pr_merged: "🎉 Ha fusionado una PR {ID} en {REPO}"
+  create_repo: "📔 Ha creado un nuevo repositorio {REPO}"
+  fork_repo: "🔱 Ha hecho un fork {FORK} desde {REPO}"
+  wiki_create: "🤓 Ha creado una nueva wiki {WIKI} en {REPO}"
+  added_member: "🤝 Se ha convertido en un colaborador en {REPO}"
+  changes_approved: "👍 Ha aprobado {ID} en {REPO}"
+  changes_requested: "🔴 Ha pedido cambios para {ID} en {REPO}"
+  new_release: "✌️ Ha sacado una nueva versión {ID} en {REPO}"
+  new_star: "⭐ Le ha dado una pedazo de estrella a {REPO}"
