@@ -23,12 +23,10 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 1. ⭐ Le ha dado una pedazo de estrella a [imagemin/imagemin](https://github.com/imagemin/imagemin)<br>
 2. ⭐ Le ha dado una pedazo de estrella a [legions-developer/invoicely](https://github.com/legions-developer/invoicely)<br>
 3. 🔴 Ha pedido cambios para [#104](https://github.com/PetCare-Manager/petcare-manager-front/pull/104#pullrequestreview-3017688091) en [PetCare-Manager/petcare-manager-front](https://github.com/PetCare-Manager/petcare-manager-front)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [ashish0kumar/stormy](https://github.com/ashish0kumar/stormy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Wednesday, August 13th, 2025, 3:37:57 AM
+Última actualización: Wednesday, August 13th, 2025, 5:18:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
