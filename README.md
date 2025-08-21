@@ -21,11 +21,10 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Le ha dado una pedazo de estrella a [imagemin/imagemin](https://github.com/imagemin/imagemin)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [legions-developer/invoicely](https://github.com/legions-developer/invoicely)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Thursday, August 21st, 2025, 10:24:28 AM
+Última actualización: Thursday, August 21st, 2025, 11:19:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
