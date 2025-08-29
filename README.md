@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [automatisch/automatisch](https://github.com/automatisch/automatisch)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [visgl/deck.gl](https://github.com/visgl/deck.gl)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [ellite/Wallos](https://github.com/ellite/Wallos)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [Wilfred/difftastic](https://github.com/Wilfred/difftastic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Friday, August 29th, 2025, 9:17:18 AM
+Última actualización: Friday, August 29th, 2025, 10:23:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
