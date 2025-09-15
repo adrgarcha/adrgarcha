@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [mmulet/term.everything](https://github.com/mmulet/term.everything)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [yusing/godoxy](https://github.com/yusing/godoxy)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [tiagozip/cap](https://github.com/tiagozip/cap)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [basecamp/omarchy](https://github.com/basecamp/omarchy)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [Dannyimperial/frogFetch](https://github.com/Dannyimperial/frogFetch)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [mmulet/term.everything](https://github.com/mmulet/term.everything)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [kokonut-labs/kokonutui](https://github.com/kokonut-labs/kokonutui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Monday, September 15th, 2025, 12:19:11 PM
+Última actualización: Monday, September 15th, 2025, 1:14:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
