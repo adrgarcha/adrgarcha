@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [silviogutierrez/reactivated](https://github.com/silviogutierrez/reactivated)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [tmux/tmux](https://github.com/tmux/tmux)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [sharkdp/fd](https://github.com/sharkdp/fd)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [oven-sh/bun](https://github.com/oven-sh/bun)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [silviogutierrez/reactivated](https://github.com/silviogutierrez/reactivated)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [tmux/tmux](https://github.com/tmux/tmux)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [sharkdp/fd](https://github.com/sharkdp/fd)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Saturday, November 1st, 2025, 10:04:45 PM
+Última actualización: Saturday, November 1st, 2025, 11:04:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
