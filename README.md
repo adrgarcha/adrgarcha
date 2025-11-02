@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [tsl0922/ttyd](https://github.com/tsl0922/ttyd)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [schollz/croc](https://github.com/schollz/croc)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [asciinema/asciinema](https://github.com/asciinema/asciinema)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [anthropics/claude-code](https://github.com/anthropics/claude-code)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [pemistahl/grex](https://github.com/pemistahl/grex)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [busyloop/lolcat](https://github.com/busyloop/lolcat)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [tsl0922/ttyd](https://github.com/tsl0922/ttyd)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [schollz/croc](https://github.com/schollz/croc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Monday, November 3rd, 2025, 12:04:33 AM
+Última actualización: Monday, November 3rd, 2025, 1:04:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
