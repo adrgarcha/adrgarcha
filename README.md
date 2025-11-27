@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [visgl/react-google-maps](https://github.com/visgl/react-google-maps)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [upstash/context7](https://github.com/upstash/context7)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [pemistahl/grex](https://github.com/pemistahl/grex)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [busyloop/lolcat](https://github.com/busyloop/lolcat)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [lottie-react-native/lottie-react-native](https://github.com/lottie-react-native/lottie-react-native)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [visgl/react-google-maps](https://github.com/visgl/react-google-maps)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [JohannesKlauss/react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [upstash/context7](https://github.com/upstash/context7)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Thursday, November 27th, 2025, 10:06:57 AM
+Última actualización: Thursday, November 27th, 2025, 11:05:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
