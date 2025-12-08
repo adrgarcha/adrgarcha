@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
-2. 👍 Ha aprobado [#96](https://github.com/adrgarcha/mariwano/pull/96#pullrequestreview-3553840959) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
+1. ✌️ Ha sacado una nueva versión [v1.5.1](https://github.com/adrgarcha/mariwano/releases/tag/v1.5.1) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
+2. ❌ Ha cerrado una PR [#93](undefined) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
 3. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
-4. 👍 Ha aprobado [#94](https://github.com/adrgarcha/mariwano/pull/94#pullrequestreview-3553837619) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
+4. 👍 Ha aprobado [#95](https://github.com/adrgarcha/mariwano/pull/95#pullrequestreview-3553876777) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
 5. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Monday, December 8th, 2025, 10:05:32 PM
+Última actualización: Monday, December 8th, 2025, 11:04:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
