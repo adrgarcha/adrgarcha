@@ -20,7 +20,7 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [moltbot/clawdbot](https://github.com/moltbot/clawdbot)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [moltbot/moltbot](https://github.com/moltbot/moltbot)<br>
 2. ⭐ Le ha dado una pedazo de estrella a [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
 3. 🔴 Ha pedido cambios para [#131](https://github.com/adrgarcha/mariwano/pull/131#pullrequestreview-3689320790) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
 4. ⭐ Le ha dado una pedazo de estrella a [davider0/fumonomicon](https://github.com/davider0/fumonomicon)<br>
@@ -28,7 +28,7 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Tuesday, January 27th, 2026, 1:07:04 PM
+Última actualización: Tuesday, January 27th, 2026, 2:09:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
