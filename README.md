@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Ha dejado un pedazo de comentario [#14](https://github.com/beenruuu/Mentha/issues/14#issuecomment-3825650143) en [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
-2. ✔️ Ha cerrado una issue [#13](https://github.com/beenruuu/Mentha/issues/13) en [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
-3. 🤝 Se ha convertido en un colaborador en [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
-4. 🔱 Ha hecho un fork [adrgarcha/Mentha](https://github.com/adrgarcha/Mentha) desde [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [Bahaaio/pomo](https://github.com/Bahaaio/pomo)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [diegomura/react-pdf](https://github.com/diegomura/react-pdf)<br>
+2. 💬 Ha dejado un pedazo de comentario [#14](https://github.com/beenruuu/Mentha/issues/14#issuecomment-3825650143) en [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
+3. ✔️ Ha cerrado una issue [#13](https://github.com/beenruuu/Mentha/issues/13) en [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
+4. 🤝 Se ha convertido en un colaborador en [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
+5. 🔱 Ha hecho un fork [adrgarcha/Mentha](https://github.com/adrgarcha/Mentha) desde [beenruuu/Mentha](https://github.com/beenruuu/Mentha)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Friday, February 6th, 2026, 10:14:39 AM
+Última actualización: Friday, February 6th, 2026, 11:17:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
