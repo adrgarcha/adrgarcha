@@ -23,12 +23,12 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 1. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/verifactu-oss](https://github.com/adrgarcha/verifactu-oss)<br>
 2. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/verifactu-oss](https://github.com/adrgarcha/verifactu-oss)<br>
 3. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/verifactu-oss](https://github.com/adrgarcha/verifactu-oss)<br>
-4. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/hoyo-buddy](https://github.com/adrgarcha/hoyo-buddy)<br>
-5. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/hoyo-buddy](https://github.com/adrgarcha/hoyo-buddy)<br>
+4. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/verifactu-oss](https://github.com/adrgarcha/verifactu-oss)<br>
+5. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/verifactu-oss](https://github.com/adrgarcha/verifactu-oss)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Monday, March 2nd, 2026, 12:18:40 PM
+Última actualización: Monday, March 2nd, 2026, 1:15:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
