@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [different-ai/openwork](https://github.com/different-ai/openwork)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [remorses/playwriter](https://github.com/remorses/playwriter)<br>
-5. 💬 Ha dejado un pedazo de comentario [#28536](https://github.com/calcom/cal.com/pull/28536#issuecomment-4106366770) en [calcom/cal.com](https://github.com/calcom/cal.com)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [sahaj-b/ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [different-ai/openwork](https://github.com/different-ai/openwork)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [remorses/playwriter](https://github.com/remorses/playwriter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Friday, April 3rd, 2026, 9:17:04 PM
+Última actualización: Friday, April 3rd, 2026, 10:11:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
