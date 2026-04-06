@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Ha abierto una PR [#133](undefined) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
-2. 💪 Ha abierto una PR [#132](undefined) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [sahaj-b/ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [different-ai/openwork](https://github.com/different-ai/openwork)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [anomalyco/opencode](https://github.com/anomalyco/opencode)<br>
+1. 💪 Ha abierto una PR [#134](undefined) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
+2. 💪 Ha abierto una PR [#133](undefined) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
+3. 💪 Ha abierto una PR [#132](undefined) en [adrgarcha/mariwano](https://github.com/adrgarcha/mariwano)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [sahaj-b/ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [different-ai/openwork](https://github.com/different-ai/openwork)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Tuesday, April 7th, 2026, 12:12:09 AM
+Última actualización: Tuesday, April 7th, 2026, 1:13:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
