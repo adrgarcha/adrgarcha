@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [minio/minio](https://github.com/minio/minio)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [Radarr/Radarr](https://github.com/Radarr/Radarr)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [seerr-team/seerr](https://github.com/seerr-team/seerr)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [minio/minio](https://github.com/minio/minio)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Sunday, July 12th, 2026, 3:31:19 PM
+Última actualización: Sunday, July 12th, 2026, 4:31:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
