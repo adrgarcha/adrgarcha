@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [papra-hq/papra](https://github.com/papra-hq/papra)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [seerr-team/seerr](https://github.com/seerr-team/seerr)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [minio/minio](https://github.com/minio/minio)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [AumGupta/abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [papra-hq/papra](https://github.com/papra-hq/papra)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [seerr-team/seerr](https://github.com/seerr-team/seerr)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Monday, July 13th, 2026, 9:10:44 AM
+Última actualización: Monday, July 13th, 2026, 11:08:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
