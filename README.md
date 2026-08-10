@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [mattpocock/skills](https://github.com/mattpocock/skills)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [trycompai/crm](https://github.com/trycompai/crm)<br>
-5. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/portfolio](https://github.com/adrgarcha/portfolio)<br>
+1. ❗️ Ha abierto una issue [#88](https://github.com/AltanS/collie/issues/88) en [AltanS/collie](https://github.com/AltanS/collie)<br>
+2. ❗️ Ha abierto una issue [#87](https://github.com/AltanS/collie/issues/87) en [AltanS/collie](https://github.com/AltanS/collie)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [mattpocock/skills](https://github.com/mattpocock/skills)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Monday, August 10th, 2026, 9:21:52 PM
+Última actualización: Monday, August 10th, 2026, 10:14:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
