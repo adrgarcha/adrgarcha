@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Ha abierto una issue [#88](https://github.com/AltanS/collie/issues/88) en [AltanS/collie](https://github.com/AltanS/collie)<br>
-2. ❗️ Ha abierto una issue [#87](https://github.com/AltanS/collie/issues/87) en [AltanS/collie](https://github.com/AltanS/collie)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [mattpocock/skills](https://github.com/mattpocock/skills)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [AltanS/collie](https://github.com/AltanS/collie)<br>
+2. ❗️ Ha abierto una issue [#88](https://github.com/AltanS/collie/issues/88) en [AltanS/collie](https://github.com/AltanS/collie)<br>
+3. ❗️ Ha abierto una issue [#87](https://github.com/AltanS/collie/issues/87) en [AltanS/collie](https://github.com/AltanS/collie)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [mattpocock/skills](https://github.com/mattpocock/skills)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Monday, August 10th, 2026, 11:16:26 PM
+Última actualización: Tuesday, August 11th, 2026, 12:13:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
