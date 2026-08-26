@@ -20,15 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [AltanS/collie](https://github.com/AltanS/collie)<br>
-2. ❗️ Ha abierto una issue [#88](https://github.com/AltanS/collie/issues/88) en [AltanS/collie](https://github.com/AltanS/collie)<br>
-3. ❗️ Ha abierto una issue [#87](https://github.com/AltanS/collie/issues/87) en [AltanS/collie](https://github.com/AltanS/collie)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
-5. ⭐ Le ha dado una pedazo de estrella a [mattpocock/skills](https://github.com/mattpocock/skills)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [AltanS/collie](https://github.com/AltanS/collie)<br>
+3. ❗️ Ha abierto una issue [#88](https://github.com/AltanS/collie/issues/88) en [AltanS/collie](https://github.com/AltanS/collie)<br>
+4. ❗️ Ha abierto una issue [#87](https://github.com/AltanS/collie/issues/87) en [AltanS/collie](https://github.com/AltanS/collie)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [herdrdev/herdr](https://github.com/herdrdev/herdr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Wednesday, August 26th, 2026, 8:39:45 PM
+Última actualización: Wednesday, August 26th, 2026, 9:35:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
