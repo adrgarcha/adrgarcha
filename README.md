@@ -20,13 +20,14 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui)<br>
-2. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/portfolio](https://github.com/adrgarcha/portfolio)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [Sahas-Ananth/code_annotate.nvim](https://github.com/Sahas-Ananth/code_annotate.nvim)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [better-auth-ui/better-auth-ui](https://github.com/better-auth-ui/better-auth-ui)<br>
+3. ⬆️ Ha pusheado undefined commit(s) a [adrgarcha/portfolio](https://github.com/adrgarcha/portfolio)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [Sahas-Ananth/code_annotate.nvim](https://github.com/Sahas-Ananth/code_annotate.nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Sunday, October 11th, 2026, 8:14:12 PM
+Última actualización: Sunday, October 11th, 2026, 9:08:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
