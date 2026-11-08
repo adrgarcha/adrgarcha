@@ -20,14 +20,15 @@ Soy un apasionado desarrollador de software freelance especializado en el ecosis
 ## 🕒 Actividad Reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Le ha dado una pedazo de estrella a [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js)<br>
-2. ⭐ Le ha dado una pedazo de estrella a [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)<br>
-3. ⭐ Le ha dado una pedazo de estrella a [xtool-org/xtool](https://github.com/xtool-org/xtool)<br>
-4. ⭐ Le ha dado una pedazo de estrella a [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin)<br>
+1. ⭐ Le ha dado una pedazo de estrella a [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper)<br>
+2. ⭐ Le ha dado una pedazo de estrella a [lmmendes/attic](https://github.com/lmmendes/attic)<br>
+3. ⭐ Le ha dado una pedazo de estrella a [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js)<br>
+4. ⭐ Le ha dado una pedazo de estrella a [Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck)<br>
+5. ⭐ Le ha dado una pedazo de estrella a [xtool-org/xtool](https://github.com/xtool-org/xtool)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Última actualización: Sunday, November 8th, 2026, 10:06:14 PM
+Última actualización: Sunday, November 8th, 2026, 11:05:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ###
